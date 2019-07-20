@@ -1,0 +1,5 @@
+name = input("what is your name?")
+print("hello, {}".format(name))
+food = input("what is your favorite food?")
+print = input("would you like a {}?".format(food))
+food = input("here is your {}?".format(food))
